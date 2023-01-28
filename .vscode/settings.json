@@ -27,5 +27,11 @@
     "python.formatting.provider": "yapf",
     "[json]": {
 	    "editor.formatOnSave": false
-    }
+    },
+    "favorites.resources": [
+        {
+            "filePath": "keyboards/splitkb/aurora/lily58",
+            "group": "Default"
+        }
+    ]
 }
