@@ -32,6 +32,10 @@
         {
             "filePath": "keyboards/splitkb/aurora/lily58",
             "group": "Default"
+        },
+        {
+            "filePath": "quantum/keymap_extras/keymap_german.h",
+            "group": "Default"
         }
     ]
 }
